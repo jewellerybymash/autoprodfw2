@@ -2,7 +2,7 @@
 // This is a simple PHP script
 
 // Output a message
-echo "This is a PHP file.";
+echo "";
 ?>
 
 <!DOCTYPE html>
