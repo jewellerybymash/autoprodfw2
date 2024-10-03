@@ -10,7 +10,7 @@ echo "";
 <head>
  <title>
     Premier Paint Protection, Coatings & Window Tint Shop in Roanoke, TX</title>
-    <link rel="canonical" href="index.html" />
+    <link rel="canonical" href="#" />
 
 <link rel="shortcut icon" href="logo.png" alt="M
 Premier Paint Protection, Coatings & Window Tint Shop in Roanoke, TX
